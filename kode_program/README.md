@@ -1,1 +1,1 @@
-UNTUK PENJELASAN DARI OPTIMAL ANTARA BUBBLESORT DAN INSERTIONSORT ADA DIDALAM KODE PROGRAM
+untuk penjelasan dari optimal antara bubblesort dan insertionsort ada didalam kode program
